@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_Hello+World;%3E_Initializing+Bryd3n's+profile...;%3E_System+Ready_." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_Hola+Mundo;%3E_Iniciando+perfil+de+Bryd3n...;%3E_Sistema+Listo_." alt="Typing SVG" />
 </div>
 
 ---
 
-### 🖥️ `system_status --verbose`
+### 🖥️ `estado_del_sistema --verbose`
 
 ```bash
-[SYSTEM] : Booting profile for Brayan Enrique...
-[STATUS] : 🎓 6to-7mo Semestre | Ingeniería Informática (UNEG)
-[ROLES]  : 👨‍🏫 Preparador Docente | 🏗️ Líder de Middleware
-[LOG]    : ERROR 404: Apple Ecosystem not found. Performance optimized for Efficiency.
-[TARGET] : Backend Architecture & High Performance Systems
+[SISTEMA] : Cargando perfil de Brayan Enrique...
+[STATUS]  : 🎓 6to-7mo Semestre | Ingeniería Informática (UNEG)
+[ROLES]   : 👨‍🏫 Preparador Docente | 🏗️ Líder de Middleware
+[LOG]     : ERROR 404: Ecosistema Apple no encontrado. Rendimiento optimizado.
+[TARGET]  : Arquitectura Backend y Sistemas de Alto Rendimiento
 ```
 
 ---
 
-### 🛠️ `ls /bin/tools`
+### 🛠️ `ls /bin/herramientas`
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -24,40 +24,41 @@
   </a>
 </p>
 
-| Category | Tech Stack |
+| Categoría | Stack Tecnológico |
 | :--- | :--- |
-| **Languages** | `Python`, `Java`, `C`, `C++`, `SQL` |
+| **Lenguajes** | `Python`, `Java`, `C`, `C++`, `SQL` |
 | **Frameworks** | `Django`, `FastAPI` |
-| **Databases** | `PostgreSQL`, `SQLite` |
-| **Security** | `JWT`, `Bcrypt` |
-| **Tools** | `Git`, `Docker`, `Linux Shell` |
+| **Bases de Datos** | `PostgreSQL`, `SQLite` |
+| **Seguridad** | `JWT`, `Bcrypt` |
+| **Herramientas** | `Git`, `Docker`, `Linux Shell` |
 
 ---
 
-### 🚀 `tail -f current_projects.log`
+### 🚀 `tail -f proyectos_activos.log`
 
 > [!IMPORTANT]
-> **FarmaHumana** - Backend Middleware orchestration for pharmaceutical management.
-> **Museum** - Digital exhibition system architecture.
-> **Middleware** - Department leadership and process integration.
+> **FarmaHumana** - Orquestación backend para gestión farmacéutica.
+> **Museum** - Arquitectura de sistemas para exhibiciones digitales.
+> **Middleware** - Liderazgo de departamento e integración de procesos.
 
 ---
 
-### 🎮 `run_subprocesses --hobbies`
+### 🎮 `ejecutar_subprocesos --hobbies`
 
-- 🌊 **Subnautica**: Survival logic in deep-sea environments.
-- 🥕 **Forager**: Resource management & optimization.
-- 🏐 **Voleibol**: Team coordination and strategic positioning.
+- 🏹 **WoW Classic**: `grep`eando rutas de farmeo en Terrallende.
+- 🌊 **Subnautica**: Lógica de supervivencia en entornos submarinos.
+- 🥕 **Forager**: Gestión de recursos y optimización de biomas.
+- 🏐 **Voleibol**: Coordinación de equipo y posicionamiento estratégico.
 
 ---
 
-### 📡 `ping --contact`
+### 📡 `ping --contacto`
 
 <p align="left">
 <a href="mailto:bc151106uni@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
 </a>
-<a href="www.linkedin.com/in/brayan-carreño-280203405" target="_blank">
+<a href="https://www.linkedin.com/in/brayan-carreño-280203405" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
 </a>
 </p>
@@ -65,15 +66,17 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bryd3n&show_icons=true&theme=terminal&count_private=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryd3n&show_icons=true&theme=terminal&count_private=true&border_radius=10" alt="Estadísticas de GitHub" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryd3n&layout=compact&theme=terminal&hide=html,css&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryd3n&layout=compact&theme=terminal&hide=html,css&border_radius=10" alt="Lenguajes más usados" />
 </div>
 
+---
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bryd3n&theme=terminal" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bryd3n&theme=terminal" alt="Detalles del Perfil" />
 </div>
 
 <!---
-Bryd3n/Bryd3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bryd3n/Bryd3n es un repositorio ✨ especial ✨ porque su `README.md` aparece en tu perfil de GitHub.
 --->
