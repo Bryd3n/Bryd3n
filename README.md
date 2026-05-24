@@ -37,7 +37,7 @@
 ### 🚀 `tail -f current_projects.log`
 
 > [!IMPORTANT]
-> **FarmaHumana** - Backend orchestration for pharmaceutical management.
+> - Backend orchestration for pharmaceutical management.
 > **Museum** - Digital exhibition system architecture.
 > **Middleware** - Department leadership and process integration.
 
